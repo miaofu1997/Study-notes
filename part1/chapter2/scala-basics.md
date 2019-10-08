@@ -55,7 +55,7 @@ println(point2.y)  // prints 2
 Constructor reads arguments left to right, to simply set `y` \(the 2nd parameter\), you'll need to name the parameter. Doing so also enhances clarity of the code.
 {% endhint %}
 
-### Private Members, Getter and Setter
+### Getter and Setter
 
 Members are public by default.  Use the `private` access modifier to hide them from outside of the class.
 
