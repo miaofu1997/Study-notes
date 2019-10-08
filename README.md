@@ -24,7 +24,7 @@ Chapt7: didn't start
 
 Email: miaofu1997@gmail.com 
 
-Website: [https://miaofu1997.github.io/personal-info/](https://miaofu1997.github.io/personal-info/)
+Website: [https://miaofu1997.github.io/](https://miaofu1997.github.io/)
 
 
 
