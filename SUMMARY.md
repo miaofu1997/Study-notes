@@ -10,10 +10,10 @@
 * [Chapter2 Scala](part1/chapter2-scala/README.md)
   * [2.1 Scala basics](part1/chapter2-scala/1.md)
 
-## Part2 Algorithms <a id="part2"></a>
+## Part2 Big Data <a id="part2"></a>
 
 * [Chapter3](part2/chapter3/README.md)
-  * [3.1](part2/chapter3/3.1.md)
+  * [3.1 Hadoop](part2/chapter3/3.1.md)
 
 ## Part3 Models
 

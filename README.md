@@ -6,13 +6,13 @@ This book will be documenting my study notes of Machine Learning/Statistics/Pyth
 
 #### The layout and tracking:
 
-Chapt1: until 1.1 Pandas
+Chapt1: didn't start
 
-Chapt2: until 2.1 Back Tracking 
+Chapt2: until 2.1 Scala basics - ‘Classes’
 
-Chapt3: until 3.1
+Chapt3: didn't start
 
-Chapt4: until 4.1
+Chapt4: didn't start
 
 Chapt5: didn't start
 
