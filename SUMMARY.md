@@ -12,14 +12,15 @@
 
 ## Part2 Big Data <a id="part2"></a>
 
-* [Chapter3](part2/chapter3/README.md)
-  * [3.1 Hadoop](part2/chapter3/3.1.md)
+* [Chapter3 Hadoop and HDFS](part2/chapter3/README.md)
+  * [3.1 Hadoop](part2/chapter3/hadoop.md)
+* [Chapter4 Spark](part2/chapter4.md)
 
 ## Part3 Models
 
-* [Chapter4 Regression](part3-models/chapter4/README.md)
-  * [4.1 Linear Regression](part3-models/chapter4/linear-regression.md)
-* [Chapter5 Classification](part3-models/chapter5.md)
-* [Chapter6 XGBoost](part3-models/chapter6.md)
-* [Chapter7 TensorFlow](part3-models/chapter7.md)
+* [Chapter\_ Regression](part3-models/chapter4/README.md)
+  * [\_.1 Linear Regression](part3-models/chapter4/linear-regression.md)
+* [Chapter\_ Classification](part3-models/chapter5.md)
+* [Chapter\_ XGBoost](part3-models/chapter6.md)
+* [Chapter\_ TensorFlow](part3-models/chapter7.md)
 
