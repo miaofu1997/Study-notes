@@ -8,7 +8,7 @@ This book will be documenting my study notes of Machine Learning/Statistics/Pyth
 
 Chapt1: didn't start
 
-Chapt2: until 2.1 Scala basics - ‘Getter and Setter’
+Chapt2: until 2.1 Scala basics - ‘Traits’
 
 Chapt3: didn't start
 
