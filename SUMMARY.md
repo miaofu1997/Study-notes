@@ -9,12 +9,14 @@
   * [1.2 Numpy](part1/chapter1/numpy.md)
 * [Chapter2 Scala](part1/chapter2/README.md)
   * [2.1 Scala basics](part1/chapter2/scala-basics.md)
+* [Chapter3 Java](part1/chapter3/README.md)
+  * [3.1 Spring boot](part1/chapter3/spring-boot.md)
 
 ## Part2 Big Data <a id="part2"></a>
 
-* [Chapter3 Hadoop and HDFS](part2/chapter3/README.md)
-  * [3.1 Hadoop](part2/chapter3/hadoop.md)
-* [Chapter4 Spark](part2/chapter4.md)
+* [Chapter4 Hadoop and HDFS](part2/chapter4-1/README.md)
+  * [4.1 Hadoop](part2/chapter4-1/hadoop.md)
+* [Chapter5 Spark](part2/chapter5.md)
 
 ## Part3 Models
 

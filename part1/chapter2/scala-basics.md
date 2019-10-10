@@ -194,7 +194,7 @@ animals.append(cat)
 animals.foreach(pet => println(pet.name))  // Prints Harry Sally
 ```
 
-The `trait Pet` has an abstract field `name` which gets implemented by Cat and Dog in their constructors. On the last line, we call `pet.name` which must be implemented in any subtype of the trait `Pet`.
+The `trait Pet` has an abstract field `name` which gets implemented by Cat and Dog in their constructors. On the last line, we call `pet.name` which must be implemented in any sub type of the trait `Pet`.
 
 
 

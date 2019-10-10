@@ -2,7 +2,7 @@
 
 This book will be documenting my study notes of Machine Learning/Statistics/Python/Deep Learning and all that.
 
-
+Last Checkpoint: 2019/10/8/17:30
 
 #### The layout and tracking:
 
@@ -22,7 +22,7 @@ Chapt7: didn't start
 
 #### Contact information:
 
-Email: miaofu1997@gmail.com 
+Email: miaofu1997@gmail.com
 
 Website: [https://miaofu1997.github.io/](https://miaofu1997.github.io/)
 
