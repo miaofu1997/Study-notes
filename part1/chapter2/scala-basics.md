@@ -234,15 +234,23 @@ val planets =
 planets.foreach{
   case ("Earth", distance) =>
     println(s"Our planet is $distance million kilometers from the sun")
+    // It prints: "Our planet is 149.6 million kilometers from the sun"
   case _ =>
 }
 ```
 
+Or, in `for` comprehension:
 
+```scala
+val numPairs = List((2, 5), (3, -7), (20, 56))
+for ((a, b) <- numPairs) {
+  println(a * b) // returns 10,-21,1120
+}
+```
 
+### Tuples or Case classes?
 
-
-
+Users may sometimes find it hard to choose between tuples and case classes. Case classes have named elements. The names can improve the readability of some kind of code. In the planet example, we might define case class `Planet(name: String, distance: Double)` rather than using tuples.
 
 
 
