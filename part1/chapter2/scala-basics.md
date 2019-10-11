@@ -1,5 +1,5 @@
 ---
-description: '(unfinished) including classes, Traits, and Tuples'
+description: 'including Classes, Traits, Tuples, Class Composition, ...'
 ---
 
 # 2.1 Scala basics
@@ -251,6 +251,98 @@ for ((a, b) <- numPairs) {
 ### Tuples or Case classes?
 
 Users may sometimes find it hard to choose between tuples and case classes. Case classes have named elements. The names can improve the readability of some kind of code. Usually, if the elements have more meaning, we should choose case classes. In the planet example, we might define case class `Planet(name: String, distance: Double)` rather than using tuples.
+
+
+
+## Class Composition with Mixins
+
+Mixins\(混入\) are traits which are used to compose a class.
+
+```scala
+abstract class A {
+  val message: String
+}
+class B extends A { // a normal class, D's superclass
+  val message = "I'm an instance of class B"
+}
+trait C extends A { // a mixin
+  def loudMessage = message.toUpperCase()
+}
+
+class D extends B with C
+
+val d = new D
+println(d.message)  // I'm an instance of class B
+println(d.loudMessage)  // I'M AN INSTANCE OF CLASS B
+```
+
+Class `D` has superclass `B` and a mixin `C`. Classes can only have 1 superclass but many mixins \(using the keyword `extends` and `with` respectively\). The mixins and the superclass may have the same supertype, in this case, `A`.
+
+Here's a more interesting example starting with an abstract class:
+
+```scala
+abstract class AbsIterator { // with standard iterator methods
+  type T
+  def hasNext: Boolean
+  def next(): T
+}
+```
+
+Next, implement a concrete class \(all abstract members `T`, `hasNext`, and `next` have implementations\):
+
+```scala
+class StringIterator(s: String) extends AbsIterator {
+  type T = Char
+  private var i = 0
+  def hasNext = i < s.length // return a boolean
+  def next() = {
+    val ch = s charAt i
+    i += 1
+    ch
+  }
+}
+```
+
+`StringIterator` takes a `String` and can be used to iterate over the String \(e.g., to see if a String contains a certain character\). Now let’s create a trait which also extends `AbsIterator`.
+
+```scala
+trait RichIterator extends AbsIterator {
+  def foreach(f: T => Unit): Unit = while (hasNext) f(next())
+}
+```
+
+This trait implements `foreach` by continually calling the provided function`f: T => Unit` on the next element \(`next()`\) as long as there are further elements \(`while (hasNext)`\). Because `RichIterator` is a trait, it doesn’t need to implement the abstract members of `AbsIterator`. 
+
+Next, combine the functionality of `StringIterator` and `RichIterator` into a single class:
+
+```scala
+class RichStringIter extends StringIterator("Scala") with RichIterator
+
+val richStringIter = new RichStringIter
+richStringIter foreach println
+```
+
+The new class `RichStringIter` has `StringIterator` as a superclass and `RichIterator` as a mixin. With single inheritance we would not be able to achieve this level of flexibility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
