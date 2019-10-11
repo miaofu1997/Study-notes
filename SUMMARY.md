@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## Part1 Coding <a id="part1"></a>
+## Part1 General Coding <a id="part1"></a>
 
 * [Chapter1 Python](part1/chapter1/README.md)
   * [1.1 Pandas](part1/chapter1/pandas.md)
@@ -19,7 +19,7 @@
   * [4.1 Hadoop](part2/chapter4-1/hadoop.md)
 * [Chapter5 Spark](part2/chapter5.md)
 
-## Part3 Models
+## Part3 Models and Frameworks <a id="part3-models"></a>
 
 * [Chapter\_ Regression](part3-models/chapter4/README.md)
   * [\_.1 Linear Regression](part3-models/chapter4/linear-regression.md)
