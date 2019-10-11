@@ -2,13 +2,13 @@
 
 This book will be documenting my study notes of Machine Learning/Statistics/Python/Deep Learning and all that.
 
-Last Checkpoint: 2019/10/8/17:30
+Last Checkpoint: 2019/10/11/14:38
 
 #### The layout and tracking:
 
 Chapt1: didn't start
 
-Chapt2: until 2.1 Scala basics - ‘Traits’
+Chapt2: until 2.2 Functions and Methods - ‘Nested Methods’
 
 Chapt3: didn't start
 
