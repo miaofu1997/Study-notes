@@ -198,6 +198,58 @@ The `trait Pet` has an abstract field `name` which gets implemented by Cat and D
 
 
 
+## Tuples
+
+A tuple is a value that contains a fixed number of elements, each with a distinct type. Tuples are immutable, and it's especially handy for returning multiple values from a method. It can be created like: 
+
+```scala
+val ingredient = ("sugar", 25)
+```
+
+which contains a `String` element and an `Int` element, and the tuple `ingredient`'s type is `(String, Int)` . It's shorthand for`Tuple2[String, Int]`. To represent tuples, Scala uses a series of classes from `Tuple2`, `Tuple3` all the way to `Tuple22`, each class has as many type parameters as is has elements.
+
+### Accessing the elements
+
+Accessing tuple elements by position. ‘tuple.\_n’ represents the nth element of the tuple.
+
+```scala
+println(ingredient._1) // Sugar
+println(ingredient._2) // 25
+```
+
+A tuple can also be taken apart using pattern matching: \(解构\)
+
+```scala
+val (name, quantity) = ingredient
+println(name) // Sugar
+println(quantity) // 25
+```
+
+Here, `name`’s inferred type is `String` and `quantity`’s inferred type is `Int`. Below is another example of pattern-matching a tuple:
+
+```scala
+val planets =
+  List(("Mercury", 57.9), ("Venus", 108.2), ("Earth", 149.6),
+       ("Mars", 227.9), ("Jupiter", 778.3))
+planets.foreach{
+  case ("Earth", distance) =>
+    println(s"Our planet is $distance million kilometers from the sun")
+  case _ =>
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

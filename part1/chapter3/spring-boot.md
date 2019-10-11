@@ -16,18 +16,32 @@
   |  +- ScpDic.java // Dictionary class
   |
   +- service
-  |  +- ILoginService.java
+  |  +- ILoginService.java // Login service
   |  +- Impl
-  |    +- LoginServiceImpl.java
+  |    +- LoginServiceImpl.java // Implimentation
   |
   +- controller
   |  +- DemoController.java
   |  +- LoginController.java
   |
   +- mapper
-  |  +- ScpDicMapper.java
+  |  +- ScpDicMapper.java // Similar to DAO in Spring MVC
   |
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
