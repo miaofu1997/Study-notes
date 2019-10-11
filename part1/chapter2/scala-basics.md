@@ -1,5 +1,5 @@
 ---
-description: 'including Classes, Traits, Tuples, Class Composition, ...'
+description: 'including Classes, Traits, Tuples and Class Composition.'
 ---
 
 # 2.1 Scala basics
