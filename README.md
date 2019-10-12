@@ -10,7 +10,7 @@ Chapt1: didn't start
 
 Chapt2: until 2.2 Functions and Methods - ‘Nested Methods’
 
-Chapt3: didn't start
+Chapt3: until 3.1 Spring boot - 'Root Package structure'
 
 Chapt4: didn't start
 

@@ -1,12 +1,12 @@
 # 3.1 Spring boot
 
-### Spring boot Project Structure
+### Project Structure
 
 * `src/main/java` 程序开发以及主程序入口
 * `src/main/resources` 配置文件
 * `src/test/java` 测试程序
 
-### Spring boot Root package Structure
+### Root package Structure
 
 ```java
 +- cn.cecii.scp
