@@ -15,9 +15,11 @@
 
 ## Part2 Big Data <a id="part2"></a>
 
-* [Chapter4 Hadoop and HDFS](part2/chapter4-1/README.md)
-  * [4.1 Hadoop](part2/chapter4-1/hadoop.md)
+* [Chapter4 Hadoop and HDFS](part2/chapter4/README.md)
+  * [4.1 Hadoop](part2/chapter4/hadoop.md)
 * [Chapter5 Spark](part2/chapter5.md)
+* [Chapter6 HBase](part2/chapter6/README.md)
+  * [HBase basics](part2/chapter6/hbase-basics.md)
 
 ## Part3 Models and Frameworks <a id="part3-models"></a>
 
