@@ -1,7 +1,7 @@
 # Sava csv file into HBase
 
 | id | name |
-| :--- | :--- |
+| :---: | :---: |
 | 1 | kuangyuefeng |
 | 2 | fumiao |
 | 3 | hupeng |
