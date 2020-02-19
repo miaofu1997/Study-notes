@@ -29,4 +29,5 @@
 * [Chapter\_ Classification](part3-models/chapter5.md)
 * [Chapter\_ XGBoost](part3-models/chapter6.md)
 * [Chapter\_ TensorFlow](part3-models/chapter7.md)
+* [Bitcoin, block chain](bitcoin-block-chain.md)
 
