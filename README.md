@@ -2,23 +2,13 @@
 
 This book will be documenting my study notes of Machine Learning/Statistics/Python/Deep Learning and all that.
 
-Last Checkpoint: 2019/10/11/14:38
+Last Checkpoint: 2020/2/19/15:34
 
 #### The layout and tracking:
-
-Chapt1: didn't start
 
 Chapt2: until 2.2 Functions and Methods - ‘Nested Methods’
 
 Chapt3: until 3.1 Spring boot - 'Root Package structure'
-
-Chapt4: didn't start
-
-Chapt5: didn't start
-
-Chapt7: didn't start
-
-
 
 #### Contact information:
 
