@@ -9,7 +9,7 @@
   * [1.2 Numpy](part1/chapter1/numpy.md)
 * [Chapter2 Scala](part1/chapter2/README.md)
   * [2.1 Scala basics](part1/chapter2/scala-basics.md)
-  * [2.2 Functions and Methods](part1/chapter2/2.2-functions-and-methods.md)
+  * [2.2 Scala in IDEA](part1/chapter2/2.2-scala-in-idea.md)
 * [Chapter3 Java](part1/chapter3/README.md)
   * [3.1 Spring boot](part1/chapter3/spring-boot.md)
 
