@@ -4,11 +4,11 @@ description: >-
   Scala's official guide. Not completed.
 ---
 
-# 2.1 Scala basics
+# 2.1 Scala's Official Guide
 
 ## Classes
 
-Classes in Scala are blueprints for creating objects. They can contain methods, values, variables, types, objects, traits, and classes which are collectively called _members_. Types, objects, and traits will be covered later in this Chapter.
+Classes in Scala are blueprints for creating objects. They can contain methods, values, variables, types, objects, traits, and classes which are collectively called members. Types, objects, and traits will be covered later in this Chapter.
 
 ### Defining a class
 
