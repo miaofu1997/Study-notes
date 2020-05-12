@@ -2,7 +2,7 @@
 
 This book will be documenting my study notes of Machine Learning/Statistics/Python/Deep Learning and all that.
 
-Last Checkpoint: 2020/2/19/15:34
+Last Checkpoint: 2020/5/12/15:19
 
 #### The layout and tracking:
 
