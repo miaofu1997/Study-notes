@@ -14,7 +14,7 @@
   * [2.4 Course Notes](part1/chapter2/2.2-scala-in-idea.md)
 * [Chapter3 Java](part1/chapter3/README.md)
   * [3.1 Spring boot](part1/chapter3/spring-boot.md)
-  * [3.0 Other](part1/chapter3/3.0-other.md)
+  * [3.0 Other Stuff](part1/chapter3/3.0-other.md)
 
 ## Part2 Big Data <a id="part2"></a>
 
