@@ -2,7 +2,7 @@
 
 [This book](https://miaofu1997.gitbook.io/study-notes/) will be documenting my study notes of Machine Learning/Statistics/Python/Deep Learning and all that.
 
-Last Checkpoint: 2020/5/13/23:35
+Last Checkpoint: 2020/5/14/17:30
 
 #### 
 
