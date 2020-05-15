@@ -11,7 +11,6 @@
   * [2.1 Scala's Official Guide](part1/chapter2/scala-basics.md)
   * [2.2 Scala Basics](part1/chapter2/2.2-scala-basic.md)
   * [2.3 Object Oriented](part1/chapter2/2.3-object-oriented.md)
-  * [2.4 Course Notes](part1/chapter2/2.2-scala-in-idea.md)
 * [Chapter3 Java](part1/chapter3/README.md)
   * [3.1 Spring boot](part1/chapter3/spring-boot.md)
   * [3.0 Other Stuff](part1/chapter3/3.0-other.md)
