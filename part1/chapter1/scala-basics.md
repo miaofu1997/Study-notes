@@ -4,7 +4,7 @@ description: >-
   Scala's official guide. Not completed.
 ---
 
-# 2.1 Scala's Official Guide
+# 1.1 Scala's Official Guide
 
 ## Classes
 

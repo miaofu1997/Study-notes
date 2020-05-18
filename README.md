@@ -8,7 +8,7 @@ Last Checkpoint: 2020/5/17/21:30
 
 #### 📒 The layout and tracking:
 
-Chapt2: until 2.3 Object Oriented
+Chapt1 Scala: until 1.3 Object Oriented
 
 #### 
 
