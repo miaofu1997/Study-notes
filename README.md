@@ -1,18 +1,20 @@
 # Introduction
 
-[This book](https://miaofu1997.gitbook.io/study-notes/) will be documenting my study notes of Machine Learning/Statistics/Python/Deep Learning and all that.
+[This book](https://miaofu1997.gitbook.io/study-notes/) will be documenting my study notes of Scala/Bigdata Hadoop Ecosystem/ML/Python/Deep Learning and all that.
 
-Last Checkpoint: 2020/5/18/16:40
+Last Checkpoint: 2020/5/19/17:00
+
+
+
+### 📒 The layout and tracking:
+
+Chapt1 Scala: until 1.4 Akka & Actor
+
+Chapt2 Spark: to be done
 
 #### 
 
-#### 📒 The layout and tracking:
-
-Chapt1 Scala: until 1.3 Object Oriented
-
-#### 
-
-#### 📩 Contact information:
+### 📩 Contact information
 
 Email: miaofu1997@gmail.com
 
