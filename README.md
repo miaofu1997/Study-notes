@@ -2,7 +2,7 @@
 
 [This book](https://miaofu1997.gitbook.io/study-notes/) will be documenting my study notes of Scala/Bigdata Hadoop Ecosystem/ML/Python/Deep Learning and all that.
 
-Last Checkpoint: 2020/5/19/17:00
+Last Checkpoint: 2020/5/20/17:00
 
 
 
