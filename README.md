@@ -6,7 +6,7 @@ Last Checkpoint: 2020/5/22/17:00
 
 
 
-### 📒 The layout and tracking:
+### 📒 The layout and tracking
 
 Chapt1 Scala: until 1.5 Implicit Conversions, Generic Classes
 
