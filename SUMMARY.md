@@ -13,7 +13,8 @@
 
 ## Part2 Big Data <a id="part2"></a>
 
-* [Chapter2 Spark](part2/chapter2.md)
+* [Chapter2 Spark](part2/chapter2/README.md)
+  * [2.1 Spark Intro](part2/chapter2/2.1-spark-intro.md)
 
 ## Part3 Models and Frameworks <a id="part3-models"></a>
 
