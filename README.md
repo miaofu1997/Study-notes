@@ -8,11 +8,11 @@ The book is written both in English and in Chinese, depending on the materials I
 
 ### 📒 The layout and tracking
 
-Chapt1 Scala: until 1.5 Implicit Conversions, Generic Classes
+Chapt1 Scala: until 1.4 Implicit Conversions, Generic Classes
 
 Chapt2 Spark: to be done
 
-_Last Checkpoint: 2020/5/22/17:00_
+_Last Checkpoint: 2020/5/25/17:00_
 
 #### 
 
