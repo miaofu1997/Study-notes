@@ -16,7 +16,7 @@
 * [Chapter2 Spark](part2/chapter2/README.md)
   * [2.1 Spark Intro](part2/chapter2/2.1-spark-intro.md)
 
-## Part3 Models and Frameworks <a id="part3-models"></a>
+## Part3 Models and Algorithms <a id="part3-models"></a>
 
 * [Chapter3](chapter3/README.md)
   * [3.1](chapter3/3.1.md)
