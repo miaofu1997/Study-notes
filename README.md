@@ -12,7 +12,7 @@ The book is written both in English and in Chinese, depending on the materials I
 
 **Chapt2 Spark** until 2.1: Spark Intro
 
-_Last Checkpoint: 2020/5/25/17:00_
+_Last Checkpoint: 2020/6/5/17:00_
 
 #### 
 
