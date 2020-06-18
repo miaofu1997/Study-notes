@@ -10,14 +10,10 @@
   * [1.3 Object Oriented](part1/chapter1/2.3-object-oriented.md)
   * [1.4 Implicit Conversions, Generic Classes](part1/chapter1/1.4-currying-implicit-conversions-generic-classes.md)
   * [1.5 Actor & Akka](part1/chapter1/1.5-actor-and-akka.md)
-
-## Part2 Big Data <a id="part2"></a>
-
-* [Chapter2 Spark](part2/chapter2/README.md)
-  * [2.1 Spark Intro](part2/chapter2/2.1-spark-intro.md)
+* [Chapter2 Spark](part1/chapter2/README.md)
+  * [2.1 Spark Intro](part1/chapter2/2.1-spark-intro.md)
+* [Chapter3 Back-end](part1/chapter3/README.md)
+  * [3.1 Spring Boot](part1/chapter3/3.1.md)
 
 ## Part3 Models and Algorithms <a id="part3-models"></a>
-
-* [Chapter3](chapter3/README.md)
-  * [3.1](chapter3/3.1.md)
 
