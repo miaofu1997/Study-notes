@@ -14,6 +14,8 @@
   * [2.1 Spark Intro](part1/chapter2/2.1-spark-intro.md)
 * [Chapter3 Back-end](part1/chapter3/README.md)
   * [3.1 Spring Boot](part1/chapter3/3.1.md)
+* [Chapter4 Front-end](part1/chapter4/README.md)
+  * [4.1 Vue.js](part1/chapter4/4.1-vue.js.md)
 
 ## Part3 Models and Algorithms <a id="part3-models"></a>
 
