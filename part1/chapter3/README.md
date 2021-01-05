@@ -1,6 +1,6 @@
 # Chapter3 Spark
 
-Do note components' version:
+relevant component version:
 
 | Component Name | Version |
 | :---: | :---: |
