@@ -1,12 +1,12 @@
 # Introduction
 
-[This book](https://miaofu1997.gitbook.io/study-notes/) will be documenting my study notes of Scala/Bigdata Hadoop Ecosystem/ML/Python/Deep Learning and all that. 
+[This book](https://miaofu1997.gitbook.io/study-notes/) will be documenting my study notes of Scala/Bigdata Hadoop Ecosystem/ML/Python/Deep Learning and all that.&#x20;
 
-The book is written both in English and in Chinese, depending on the materials I learned from, and it is for note-taking purpose only \(for now\). 
+The book is written both in English and in Chinese, depending on the materials I learned from, and it is for note-taking purpose only (for now).&#x20;
 
 
 
-### 📒 The layout and tracking
+### :ledger: The layout and tracking
 
 **Chapt1 Scala** 1.1 - 1.5 done
 
@@ -14,13 +14,11 @@ The book is written both in English and in Chinese, depending on the materials I
 
 _Last Checkpoint: 2020/6/5/17:00_
 
-#### 
+####
 
-### 📩 Contact information
+### :envelope\_with\_arrow: Contact information
 
 Email: miaofu1997@gmail.com
 
 Website: [https://miaofu1997.github.io/](https://miaofu1997.github.io/)
-
-
 
