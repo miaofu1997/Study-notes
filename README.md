@@ -1,18 +1,22 @@
 # Introduction
 
-[This book](https://miaofu1997.gitbook.io/study-notes/) will be documenting my study notes of Scala/Bigdata Hadoop Ecosystem/ML/Python/Deep Learning and all that.&#x20;
+[This book](https://miaofu1997.gitbook.io/study-notes/) will be documenting my study notes of Coding/Bigdata/ML/Algorithms and all that.&#x20;
 
-The book is written both in English and in Chinese, depending on the materials I learned from, and it is for note-taking purpose only (for now).&#x20;
+The book is written both in English and in Chinese, depending on the materials I learned from, and it is for note-taking purpose only.&#x20;
 
 
 
 ### :ledger: The layout and tracking
 
+**\[Coding]**
+
 **Chapt1 Scala** 1.1 - 1.5 done
 
-**Chapt2 Spark** until 2.1: Spark Intro
+**\[Bigdata]**
 
-_Last Checkpoint: 2020/6/5/17:00_
+**Chapt1 Linux** until 1.1 Vim
+
+_Last Checkpoint: 2022/8/3 18:00_
 
 ####
 
